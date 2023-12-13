@@ -7,3 +7,6 @@ let pencil=20;
 let erasor=30;
 let output=`the total price is: ${pencil+erasor} rupees`;
 console.log(output);
+let a=35;
+let c=56;
+console.log(c-a);
